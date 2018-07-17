@@ -1,0 +1,113 @@
+
+Unique values in metadata.mods.genre field:
+
+	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85028351', '#text': 'College student newspapers and periodicals'}
+
+	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85040974', '#text': 'Editorial cartoons'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2015026053', '#text': 'Tracts (Ephemera)'}
+
+	United States--Politics and government--Caricatures and cartoons
+
+	International relations--Caricatures and cartoons
+
+	World politics and government--Caricatures and cartoons
+
+	Popular culture--United States--Caricatures and cartoons
+
+	Editorial cartoons
+
+	United States--Economic conditions--Caricatures and cartoons
+
+	War--Caricatures and cartoons
+
+	United States--Social conditions--Caricatures and cartoons
+
+	Sports--Caricatures and cartoons
+
+	{'@authority': 'lctgm'}
+
+	{'@authority': 'dct', '#text': 'image'}
+
+	{'@valueURI': ''}
+
+	legislative act
+
+	indictment
+
+	Portraits, Studio
+
+	Portraits
+
+	Political cartoons
+
+	{'@authority': 'lcgft', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2011026032', '#text': 'Aerial photographs'}
+
+	Engravings
+
+	Portraits, Group
+
+	Certificates
+
+	Photographic postcards
+
+	Advertisements
+
+	Envelopes
+
+	Portraits, American
+
+	Landscapes
+
+	Menus
+
+	Desks
+
+	School yearbooks
+
+	Plaques
+
+	Printing plates
+
+	Cloth
+
+	Regulatory signs
+
+	Memorial cards
+
+	Musical instruments
+
+	Medicine chests
+
+	Axes (tools)
+
+	Hogsheads
+
+	Kettles
+
+	Beehives (apiaries)
+
+	Dioramas
+
+	Grinding stones
+
+	Medals
+
+	Postage stamps
+
+	History paintings
+
+	{'@authority': 'lcgft', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2011026697', '#text': 'Topographic maps'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026122', '#text': 'Lectures'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026067', '#text': 'Conference materials'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026162', '#text': 'Recipes'}
+
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026173', '#text': 'Scrapbooks'}
+
+
+Total distinct values: 54

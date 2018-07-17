@@ -1,0 +1,17 @@
+
+Unique values in metadata.mods.name.description field:
+
+	Turkish
+
+	Italian
+
+	American
+
+	French
+
+	None
+
+	German
+
+
+Total distinct values: 6

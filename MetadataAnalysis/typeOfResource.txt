@@ -1,0 +1,17 @@
+
+Unique values in metadata.mods.typeOfResource field:
+
+	text
+
+	still image
+
+	cartographic
+
+	moving image
+
+	three dimensional object
+
+	notated music
+
+
+Total distinct values: 6
