@@ -1,0 +1,161 @@
+
+Unique values in metadata.mods.physicalDescription.form field:
+
+	cartoons (humorous images)
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300015617', '#text': 'sketches'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300046300', '#text': 'photographs'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026879', '#text': 'letters (correspondence)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300027221', '#text': 'posters'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300028094', '#text': 'maps (documents)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127478', '#text': 'transparencies'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300264821', '#text': 'printed ephemera'}
+
+	{'@authority': 'http://vocab.getty.edu/aat/300046300', '#text': 'photographs'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026657', '#text': 'periodicals'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026671', '#text': 'speeches (documents)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026430', '#text': 'sheet music'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300311670', '#text': 'booklet'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300248280', '#text': 'brochures'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300028569', '#text': 'manuscripts (document genre)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300028051', '#text': 'books'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127121', '#text': 'albumen prints'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300128695', '#text': 'gelatin silver prints'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300133555', '#text': 'hand coloring'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300115233', '#text': 'sepia prints'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127145', '#text': 'platinum prints'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127149', '#text': 'salted paper prints'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300027216', '#text': 'playbills'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026652', '#text': 'newsletters'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300123430', '#text': 'cartoons (humorous images)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300041273', '#text': 'prints (visual works)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300015578', '#text': 'illustrations'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026685', '#text': 'records (documents)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026816', '#text': 'postcards'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127173', '#text': 'negatives (photographic)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300311889', '#text': 'objects'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300033973', '#text': 'drawings (visual works)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300033618', '#text': 'paintings (visual works)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026867', '#text': 'clippings (information artifacts)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300037316', '#text': 'money'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300123013', '#text': 'signs (declatory or advertising artifacts)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026877', '#text': 'correspondence'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300034787', '#text': 'architectural drawings (visual works)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300015387', '#text': 'diagrams'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300127173', '#text': 'negatives (photographs)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300046300', '#text': 'videorecording'}
+
+	{'@authority': 'http://vocab.getty.edu/aat/300027267', '#text': 'reports'}
+
+	{'@authority': 'http://vocab.getty.edu/aat/300028682', '#text': 'video recordings'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300028682', '#text': 'video recordings'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026816', '#text': 'reports'}
+
+	{'@authority': 'http://vocab.getty.edu/aat/300027275', '#text': 'corporation reports'}
+
+	{'@authority': 'aat', '@authorityURI': 'http://www.getty.edu/research/tools/vocabularies/aat/', '@valueURI': 'http://vocab.getty.edu/aat/300046300', '#text': 'photographs'}
+
+	{'@authority': 'aat', '@authorityURI': 'http://www.getty.edu/research/tools/vocabularies/aat/', '@valueURI': 'http://vocab.getty.edu/aat/300264821', '#text': 'printed ephemera'}
+
+	{'@authority': 'aat', '@authorityURI': 'http://www.getty.edu/research/tools/vocabularies/aat/', '@valueURI': 'http://vocab.getty.edu/aat/300028881', '#text': 'ephemera'}
+
+	{'@authority': 'aat', '@authorityURI': 'http://www.getty.edu/research/tools/vocabularies/aat/', '@valueURI': 'http://vocab.getty.edu/aat/300027341', '#text': 'scrapbooks'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300027267', '#text': 'reports'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026437', '#text': 'press releases'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026931', '#text': 'drafts (documents)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300027909', '#text': 'congressional committee reports'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026487', '#text': 'scripts (documents)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300026906', '#text': 'memorandums'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300211825', '#text': 'leaflets (printed works)'}
+
+	{'@authority': 'aat', '@valueURI': 'http://vocab.getty.edu/aat/300015635', '#text': 'comics (documents)'}
+
+	manuscripts (document genre)
+
+	reports
+
+	correspondence
+
+	pamphlets
+
+	records (documents)
+
+	periodicals
+
+	clippings (information artifacts)
+
+	photographs
+
+	signs (declatory or advertising artifacts)
+
+	business cards
+
+	posters
+
+	printed ephemera
+
+	examinations (documents)
+
+	subpoenas
+
+	copyright certificates
+
+	press releases
+
+	speeches (documents)
+
+	newspapers
+
+	sermons
+
+	legislation
+
+
+Total distinct values: 78

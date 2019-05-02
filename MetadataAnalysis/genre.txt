@@ -1,11 +1,7 @@
 
 Unique values in metadata.mods.genre field:
 
-	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85028351', '#text': 'College student newspapers and periodicals'}
-
-	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85040974', '#text': 'Editorial cartoons'}
-
-	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2015026053', '#text': 'Tracts (Ephemera)'}
+	{'@authority': 'dct', '#text': 'text'}
 
 	United States--Politics and government--Caricatures and cartoons
 
@@ -25,15 +21,389 @@ Unique values in metadata.mods.genre field:
 
 	Sports--Caricatures and cartoons
 
-	{'@authority': 'lctgm'}
-
 	{'@authority': 'dct', '#text': 'image'}
 
-	{'@valueURI': ''}
+	{'@authority': 'marcgt'}
 
-	legislative act
+	{'@authority': 'dct', '#text': 'sound'}
 
-	indictment
+	pamphlets
+
+	programs
+
+	speech
+
+	ration books
+
+	menus
+
+	{'@authority': 'dct', '#text': 'still image'}
+
+	instruction
+
+	certificates
+
+	government publication
+
+	clippings
+
+	newspaper
+
+	brochures
+
+	letter
+
+	newspapers
+
+	catalogs
+
+	newsletters
+
+	program
+
+	invitations
+
+	notated music
+
+	sheet music
+
+	poetry
+
+	poems
+
+	handwriting
+
+	black-and-white photographs
+
+	book
+
+	group portraits
+
+	photographs
+
+	picture
+
+	photobooks
+
+	illustrations
+
+	songbooks
+
+	cartographic
+
+	yearbooks
+
+	cabinet photographs
+
+	card photographs
+
+	black-and-white photograph
+
+	studio portraits
+
+	sketches
+
+	holographs
+
+	mixed media
+
+	scrip
+
+	school yearbooks
+
+	admission tickets
+
+	membership cards
+
+	realia
+
+	membership card
+
+	advertisements
+
+	studio portrait
+
+	political cartoons
+
+	book jackets
+
+	photographic postcards
+
+	daguerreotypes
+
+	sketchbooks
+
+	photograph albums
+
+	map
+
+	songbook
+
+	posters
+
+	manipulated photographs
+
+	special proofs
+
+	postcards
+
+	lithographs
+
+	color slides 35 mm
+
+	color slides
+
+	maps
+
+	fliers (printed matter)
+
+	souvenir program
+
+	black-and-white photographs, one illustration
+
+	paper money
+
+	photograph
+
+	sanborn maps
+
+	postcard
+
+	plaques
+
+	photographs, drawing, business card
+
+	portraits
+
+	picture postcards
+
+	stock certificates
+
+	three dimensional object
+
+	{'@authority': 'dct', '#text': 'collection'}
+
+	black-and white photographs
+
+	checks (bank checks)
+
+	books
+
+	telegrams
+
+	reports
+
+	letters of advice
+
+	petitions
+
+	annual reports
+
+	letters
+
+	letters (correspondence)
+
+	certificate
+
+	resolutions
+
+	loose-leaf
+
+	legal article
+
+	receipts (financial records)
+
+	claims
+
+	financial records
+
+	testimonies
+
+	orders (military orders)
+
+	agreements
+
+	invoices
+
+	legal reports
+
+	treaties
+
+	receipts
+
+	resolutions (administrative records)
+
+	legal documents
+
+	promissory notes
+
+	certification
+
+	legal agreement
+
+	surveys (documents)
+
+	accounts
+
+	minutes
+
+	letters (correspondence
+
+	orders (military records)
+
+	account books
+
+	manuscripts
+
+	dividend warrants
+
+	licenses
+
+	military commissions
+
+	constitutions
+
+	land grants
+
+	legal case and case notes
+
+	vouchers
+
+	loyalty oaths
+
+	leases
+
+	letters patent
+
+	taverns
+
+	marriage licenses
+
+	journals (accounts)
+
+	contracts
+
+	letters, excerpt
+
+	diaries
+
+	cashbooks
+
+	shipping records
+
+	estate inventories
+
+	deeds
+
+	commissions
+
+	legal notice
+
+	personal correspondence
+
+	instructions (document genre)
+
+	county government records
+
+	letter (correspondence)
+
+	voting
+
+	census records
+
+	manuscript (handwriting)
+
+	bills of sale
+
+	lists (document genres)
+
+	bonds (legal records)
+
+	indentures
+
+	commission
+
+	land grant
+
+	wills
+
+	deed
+
+	criminal court record
+
+	census district
+
+	testamentary, letter
+
+	law report or digest
+
+	subpoena
+
+	affidavits
+
+	land surveys
+
+	ledger (account books)
+
+	legal case and notes
+
+	reward poster
+
+	telegraphs
+
+	permits
+
+	receipt
+
+	subpoenas
+
+	warrants
+
+	summons
+
+	summonses
+
+	election returns
+
+	bylaws (administrative records)
+
+	discharges
+
+	minute books
+
+	instruction manuals
+
+	instructional manuals
+
+	tickets
+
+	souvenir programs
+
+	proclamation
+
+	handbill
+
+	handbills
+
+	broadside
+
+	records
+
+	stock certificate
+
+	broadsides
+
+	article
+
+	editorials
+
+	press releases
+
+	articles
+
+	memorandums
+
+	correspondence
 
 	Portraits, Studio
 
@@ -99,6 +469,234 @@ Unique values in metadata.mods.genre field:
 
 	{'@authority': 'lcgft', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2011026697', '#text': 'Topographic maps'}
 
+	numeric data
+
+	affadavit
+
+	notes
+
+	memoir
+
+	serials
+
+	property records
+
+	printed ephemera
+
+	military records
+
+	letters of recommendation
+
+	speeches
+
+	legal cases
+
+	criminal court records
+
+	judicial records
+
+	application forms
+
+	applications forms
+
+	commissions (permissions)
+
+	bills (invoices)
+
+	prayers
+
+	bills
+
+	ledgers (account books)
+
+	military passes
+
+	cards (information artifacts)
+
+	chart
+
+	plats (maps)
+
+	history
+
+	lists (document genre)
+
+	civil court records
+
+	cookbooks
+
+	registrations
+
+	fliers
+
+	graphic
+
+	reporting
+
+	lists
+
+	report
+
+	manuscript
+
+	stereographs
+
+	appointing
+
+	bills (legislative records)
+
+	declarations
+
+	songs
+
+	brochure
+
+	abstract or summary
+
+	bills of lading
+
+	official report
+
+	timetables
+
+	form letters
+
+	legal notices
+
+	legislation
+
+	announcements
+
+	pamphlet
+
+	political posters
+
+	manuals (instructional material)
+
+	civil wars
+
+	circular letters
+
+	circular letter
+
+	advertising campaigns
+
+	ephemera
+
+	booklets
+
+	leaflets
+
+	regulatory signs
+
+	magazines (periodicals)
+
+	manuals (instructional materials)
+
+	ballots
+
+	admission ticket
+
+	letteres (correspondence)
+
+	invitationgs
+
+	poem
+
+	radio scripts
+
+	broadcasts
+
+	card
+
+	political campaign brcohure
+
+	political campaign
+
+	poltical campaign
+
+	campaign poster
+
+	environmental impact statements
+
+	partnership agreements
+
+	tariff schedules
+
+	newspaper clippings
+
+	newspaper clippiings
+
+	essay
+
+	audits
+
+	charters
+
+	magazines
+
+	bond (legal records)
+
+	newspaper articles
+
+	histories
+
+	newspaper article
+
+	introduction
+
+	campaigns
+
+	title-labels
+
+	cartons (containers)
+
+	public documents
+
+	environmental impact reports
+
+	proclamations, letters
+
+	liens
+
+	government contracts
+
+	financial reports
+
+	business cards
+
+	reciepts (financial records)
+
+	fixed-price contracts
+
+	reciepts
+
+	parole
+
+	official reports
+
+	sermons
+
+	periodicals
+
+	composition (artistic arrangement)
+
+	questionnaires
+
+	passes (tickets)
+
+	report cards
+
+	periodical
+
+	flyers
+
+	{'@authority': 'lctgm'}
+
+	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85040974', '#text': 'Editorial cartoons'}
+
+	{'@valueURI': ''}
+
 	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms'}
 
 	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026122', '#text': 'Lectures'}
@@ -109,5 +707,13 @@ Unique values in metadata.mods.genre field:
 
 	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2014026173', '#text': 'Scrapbooks'}
 
+	{'@authority': 'lcgft', '@authorityURI': 'http://id.loc.gov/authorities/genreForms', '@valueURI': 'http://id.loc.gov/authorities/genreForms/gf2015026053', '#text': 'Tracts (Ephemera)'}
 
-Total distinct values: 54
+	legislative act
+
+	indictment
+
+	{'@authority': 'lcsh', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh85028351', '#text': 'College student newspapers and periodicals'}
+
+
+Total distinct values: 357

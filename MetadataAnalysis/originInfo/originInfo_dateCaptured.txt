@@ -1,0 +1,5 @@
+
+Unique values in metadata.mods.originInfo.dateCaptured field:
+
+
+Total distinct values: 0

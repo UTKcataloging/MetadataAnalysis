@@ -1,0 +1,865 @@
+
+Unique values in metadata.mods.originInfo.place field:
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Jacksonville (Fla.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Nashville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'New Delhi, India'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79109786', '#text': 'Knoxville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83023394', '#text': 'Ripley (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79100849', '#text': 'Oak Ridge (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79115394', '#text': 'Bermuda Islands'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Windmill Points (Va.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79022909', '#text': 'Virginia'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Chowringhee Centre, Kolkata (India)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n2012073732', '#text': 'Kolkata (India)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79087976', '#text': 'Tazewell (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83024601', '#text': 'La Follette (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n96046228', '#text': 'McMinnville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79021953', '#text': 'Oregon'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83205419', '#text': 'Redmond (Or.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82063401', '#text': 'Jackson (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82273698', '#text': 'Savannah (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85081939', '#text': 'Madisonville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82020480', '#text': 'Hot Springs (Ark.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79034503', '#text': 'Arkansas'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh90004196', '#text': 'Roan Mountain (N.C. and Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79006971', '#text': 'Spain'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80037799', '#text': 'Monroe County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80113486', '#text': 'Highland Park (Ill.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n94077173', '#text': 'Alpine (San Diego County, Calif.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82005757', '#text': 'Waterloo (Iowa)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n84065028', '#text': 'Charles City (Iowa)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80060996', '#text': 'Virginia Beach (Va.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n86079794', '#text': 'Put-in-Bay (Ohio)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Palatra (Fla.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79053995', '#text': 'Florida'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79032186', '#text': 'Vietnam'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83205380', '#text': 'Emmett (Idaho)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82124044', '#text': 'Loudon (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79075123', '#text': 'Chattanooga (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80040520', '#text': 'Gatlinburg (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n95053102', '#text': 'Lookout Mountain (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82056085', '#text': 'Laconia (N.H.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80014439', '#text': 'Portsmouth (N.H.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82076113', '#text': 'Southern Pines (N.C.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85064013', '#text': 'Mitchell (S.D.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81066308', '#text': 'Grants Pass (Or.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80046126', '#text': 'Michigan'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50055702', '#text': 'Great Falls (Mont.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n84112173', '#text': 'Rockwood (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79045553', '#text': 'Boston (Mass.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Saulico (Calif.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79041717', '#text': 'California'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79064631', '#text': 'Tucson (Ariz.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n99044828', '#text': 'Lincoln (N.H.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81042707', '#text': 'Manchester (N.H.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79005595', '#text': 'New Mexico'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79079329', '#text': 'Albuquerque (N.M.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79007751', '#text': 'New York (N.Y.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79049197', '#text': 'Ohio'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79086863', '#text': 'Cleveland (Ohio)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79018774', '#text': 'Washington (D.C.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81068040', '#text': 'Evansville (Ind.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n78095537', '#text': 'Sioux City (Iowa)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Knoxville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78095801', '#text': 'Nashville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n84049266', '#text': 'Scott County (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79018774', '#text': 'Washington (D.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79059755', '#text': 'Salt Lake City (Utah)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79007751', '#text': 'New York (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79109786', '#text': 'Knoxville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82023233', '#text': 'Winterville (Ga.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79018452', '#text': 'San Francisco (Calif.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79018583', '#text': 'Kentucky'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80040264', '#text': 'Cookeville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79074102', '#text': 'Connecticut'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79034503', '#text': 'Arkansas'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78095520', '#text': 'Philadelphia (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80109511', '#text': 'Shelby County (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79056560', '#text': 'San Diego (Calif.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78085432', '#text': 'Orlando (Fla.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78095779', '#text': 'Memphis (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79053746', '#text': 'Illinois'}}
+
+	{'placeTerm': {'@authority': 'marccountry'}}
+
+	{'placeTerm': {'@type': 'text'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79091623', '#text': 'Peoria (Ill.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79045553', '#text': 'Boston (Mass.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81124753', '#text': 'Mundelein (Ill.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81026461', '#text': 'Hot Springs (Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79100834', '#text': 'Tampa (Fla.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81084390', '#text': 'Dover (Del.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n84140254', '#text': 'Kaanapali (Hawaii)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79007369', '#text': 'Kansas'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79022863', '#text': 'Charlotte (N.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79023214', '#text': 'Atlanta (Ga.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79075123', '#text': 'Chattanooga (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81066146', '#text': 'Phoenix (Ariz.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82048996', '#text': 'Baldwin City (Kan.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79084870', '#text': 'Colorado Springs (Colo.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79041717', '#text': 'California'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79045171', '#text': 'Kansas City (Mo.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78086438', '#text': 'Chicago (Ill.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81139858', '#text': 'Clarksville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n85308225', '#text': 'White Sulphur Springs (W. Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79041725', '#text': 'Saint Louis (Mo.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79100849', '#text': 'Oak Ridge (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82043337', '#text': 'West Liberty (W.Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80046126', '#text': 'Michigan'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n83030281', '#text': 'Morristown (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79022918', '#text': 'Louisville (Ky.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79053745', '#text': 'Cincinnati (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79045539', '#text': 'Detroit (Mich.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80060867', '#text': 'Milan (Italy)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n50038252', '#text': 'Hollywood (Los Angeles, Calif.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79005665', '#text': 'London (England)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79006530', '#text': 'Baltimore (Md.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79063439', '#text': 'Huntsville (Ala.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79026675', '#text': 'Rochester (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79119217', '#text': 'Milwaukee (Wis.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79086863', '#text': 'Cleveland (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79058874', '#text': 'Paris (France)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79007238', '#text': 'New Orleans (La.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79043372', '#text': 'Providence (R.I.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79125883', '#text': 'Leipzig (Germany)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79049218', '#text': 'Columbus (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82163461', '#text': 'East Liverpool (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79081771', '#text': 'Muscatine (Iowa)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79042167', '#text': 'Birmingham (Ala.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81095229', '#text': 'Taunton (Mass.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79053770', '#text': 'Edinburgh (Scotland)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79059259', '#text': 'Syracuse (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79015689', '#text': 'Naples (Italy)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80102671', '#text': 'Quakertown (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80050950', '#text': 'Liverpool (England)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81019985', '#text': 'Galveston (Tex.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80026833', '#text': 'Scranton (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79021240', '#text': 'Los Angeles (Calif.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78089046', '#text': 'Madrid (Spain)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79034972', '#text': 'Berlin (Germany)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81130806', '#text': 'Lyons (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79075597', '#text': 'Buffalo (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79093328', '#text': 'Mexico City (Mexico)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n50075133', '#text': 'Williamsport (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80023143', '#text': 'Worcester (Mass.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80015457', '#text': 'Jersey City (N.J.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82040099', '#text': 'Middletown (Orange County, N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79091241', '#text': 'Mainz (Rhineland-Palatinate, Germany)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80040311', '#text': 'Brooklyn (New York, N.Y.)'}}
+
+	{'placeTerm': 'Watage (Ill.)'}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81039926', '#text': 'Glasgow (Scotland)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n50052571', '#text': 'Reading (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79018895', '#text': 'Vienna (Austria)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81103575', '#text': 'Newburgh (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79046064', '#text': 'Bloomington (Ill.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80128670', '#text': 'Fall River (Mass.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81018142', '#text': 'Toledo (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80079501', '#text': 'Aberdeen (Scotland)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n78045430', '#text': 'Girard (Kan.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79007500', '#text': 'Portland (Or.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80019525', '#text': 'Utica (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79023321', '#text': 'Dallas (Tex.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79043343', '#text': 'Copenhagen (Denmark)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79060700', '#text': 'Richmond (Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79055428', '#text': 'Havana (Cuba)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81018779', '#text': 'Valparaíso (Chile)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79054720', '#text': 'Pittsburgh (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79027170', '#text': 'Dayton (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81072038', '#text': 'Kansas City (Kan.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80006269', '#text': 'Hartford (Conn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79018000', '#text': 'Kalamazoo (Mich.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79007290', '#text': 'Austin (Tex.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80132975', '#text': 'Montréal (Québec)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79060405', '#text': 'Rio de Janeiro (Brazil)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80025762', '#text': 'Corning (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n83156379', '#text': 'Albany (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n84009524', '#text': 'Liverpool (Ohio)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79079328', '#text': 'Toronto (Ont.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81082032', '#text': 'Elmira (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79055157', '#text': 'Denver (Colo.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n84123630', '#text': 'Nunda (N.Y.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': '253 West Bute Street, Norfolk, VA 23510'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Knoxville, Tennessee'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Charleston, SC'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Chicago, IL'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Portsmouth, NH'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'San Francisco, CA'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': '500 West Church Avenue, Knoxville, TN 37902'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Knoxville, TN'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80003889', '#text': 'University of Tennessee, Knoxville'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79022085', '#text': 'Maryville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n92003595', '#text': 'Vonore (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/no2005033618', '#text': 'Rugby (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83226096', '#text': 'Lafayette (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81139865', '#text': 'Rhea County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n78095779', '#text': 'Memphis (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79041965', '#text': 'Seattle (Wash.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n78095801', '#text': 'Nashville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79023214', '#text': 'Atlanta (Ga.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79026675', '#text': 'Rochester (N.Y.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79053745', '#text': 'Cincinnati (Ohio)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79021240', '#text': 'Los Angeles (Calif.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n78086438', '#text': 'Chicago (Ill.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79018452', '#text': 'San Francisco (Calif.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79007500', '#text': 'Portland (Or.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79022918', '#text': 'Louisville (Ky.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n78095520', '#text': 'Philadelphia (Pa.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81018142', '#text': 'Toledo (Ohio)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81003790', '#text': 'Saint Joseph (Mo.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79045539', '#text': 'Detroit (Mich.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n96061712', '#text': 'Fort Des Moines (Iowa)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79006530', '#text': 'Baltimore (Md.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82084271', '#text': 'Fentress County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80030605', '#text': 'Robertson County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n89223805', '#text': 'Dayton (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79060965', '#text': 'Tennessee'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82120713', '#text': 'Paris (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79046216', '#text': 'Lexington (Va.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79022924', '#text': 'Charleston (S.C.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81080249', '#text': 'Cleveland (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81024913', '#text': 'Bradley County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n2005030230', '#text': 'Rockford (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81025935', '#text': 'Blount County (Tenn.)?'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82218811', '#text': 'Sevier County (Tenn.)?'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81057210', '#text': 'Clinton (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Jackson (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82063401', '#text': 'Bemis (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Cheatham County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80151602', '#text': 'Craggie Hope (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Dickson County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82227642', '#text': 'White Bluff (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81139858', '#text': 'Clarksville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79071806', '#text': 'Johnson City (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n88183012', '#text': 'Gray (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79084674', '#text': 'Jonesborough (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Greene County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82075634', '#text': 'Chuckey (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50071679', '#text': 'Murfreesboro (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Unknown'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50061016', '#text': 'Gallatin (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79128945', '#text': 'Norfolk (Va.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81003708', '#text': 'Maury County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85137285', '#text': 'Hermitage (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80034913', '#text': 'Middletown (Conn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83227860', '#text': 'Lewisburg (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n84152937', '#text': 'Mount Pleasant (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79072935', '#text': 'Meadville (Crawford County, Pa.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Maury County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81003708', '#text': 'Neapolis (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80125931', '#text': 'Germany'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81108036', '#text': 'Kingsport (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81092195', '#text': 'Stewart County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Johnson City (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79071806', '#text': 'Mountain Home (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83190688', '#text': 'Shelbyville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83030281', '#text': 'Morristown (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83043054', '#text': 'Hamblen County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81024915', '#text': 'Athens (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'McMinn County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81112582', '#text': 'Englewood (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Englewood (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81112582', '#text': 'McMinn County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81124833', '#text': 'Bristol (Va.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81124834', '#text': 'Bristol (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83190689', '#text': 'Bedford County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82156830', '#text': 'Goodlettsville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50063867', '#text': 'Vichy (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79059670', '#text': 'Munich (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/subjects/sh86000647', '#text': 'Argonne (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n2003104412', '#text': 'Bingen (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80002930', '#text': 'Berchtesgaden (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50051287', '#text': 'Ardennes (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Erlanger (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85307879', '#text': 'Weimar (Germany : Stadtkreis)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Bitburg-Erdorf (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79006404', '#text': 'France'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Weimar, Germany'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79126964', '#text': 'Auxerre (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n93002900', '#text': 'Thiaucourt (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Suippes (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85294169', '#text': 'Prüm (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n84066109', '#text': 'Vipiteno (Italy)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n50067796', '#text': 'Arlon (Belgium)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79040121', '#text': 'Austria'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79077528', '#text': 'Strasbourg (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81122907', '#text': 'Vigneulles-le?s-Hattoncha?tel (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n82068148', '#text': 'England'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Lérouville (France)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/nr2004028248', '#text': 'Viechtach (Germany)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n85307676', '#text': 'Lebanon (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Smith County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81066286', '#text': 'Monoville (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n81066286', '#text': 'Smith County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Monroe County (Tenn.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n80037799', '#text': 'Tomotley'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n79005665', '#text': 'London (England)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': 'http://id.loc.gov/authorities/names/n83227895', '#text': 'Springfield (Tenn.)'}}
+
+	{'placeTerm': {'@authority': 'marccountry', '@type': 'code'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Asheville (N.C.)'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '#text': 'Maryville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n80040520', '#text': 'Gatlinburg (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79063971', '#text': 'Asheville (N.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79071806', '#text': 'Johnson City (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/no2010148240', '#text': 'Canton (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82090490', '#text': 'Aurora (Mo.)'}}
+
+	{'placeTerm': 'St. Louis (Mo.)'}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n89120954', '#text': 'Jennerstown (Pa.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82257184', '#text': 'West Nyack (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n89120973', '#text': 'Pearl River (N.Y.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79081388', '#text': 'Des Moines (Iowa)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79022085', '#text': 'Maryville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81020369', '#text': 'Saint Paul (Minn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n81108036', '#text': 'Kingsport (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82006707', '#text': 'Titusville (Fla.)'}}
+
+	{'placeTerm': 'Brooklyn (N.Y.)'}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79105676', '#text': 'Amarillo (Tex.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n95009255', '#text': 'Linville (N.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79116470', '#text': 'Roanoke (Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79118905', '#text': 'Chapel Hill (N.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82156830', '#text': 'Goodlettsville (Tenn.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79054177', '#text': 'Danville (Va.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n79095406', '#text': 'Orangeburg (S.C.)'}}
+
+	{'placeTerm': {'@valueURI': 'http://id.loc.gov/authorities/names/n82273669', '#text': 'Sevierville (Tenn.)'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'St. Petersburg, FL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'New York'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Maine'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Edinburgh, Scotland'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Havana, Cuba'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Springfield, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Kansas City, MO'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Surbiton, England'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'St. Paul, MN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Yeovil, England'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Providence, RI'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Dayton, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Greenville, SC'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Nashville, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Carroll, IA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'New York, NY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'St. Joseph, MI'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Chicago, IL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Atlanta, GA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Asheville, NC'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Cutler, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Washington, DC'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Philadelphia, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Hopkinsville, KY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Norcatur, KS'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'St. Louis, MO'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Birmingham, AL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Toms River, NJ'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Bowling Green, KY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Middlesboro, KY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Sharon, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Madisonville, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'San Antonio, TX'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'East Grand Forks, MN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Boston, MA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Cincinnati, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Hicksville, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Arlington, VA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': "Lee's Summit, MO"}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Danville, KY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Little Rock, AR'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Knoxville, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Nimes, France'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Hartington, NE'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Mountain Lake, MN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Waurika, OK'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'San Pedro, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Paterson, NJ'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Brooklyn, NY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Portland, OR'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Winchester, IN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'La Cygne, KS'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Butler, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Rome, GA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Riverton, LA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Hays, KS'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Louisa, KY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Fort Scott, KS'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Hammond, IN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Dayton, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Haywood County, NC'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'New Orleans, LA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Winchester, VA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Rockingham, NC'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Olympia, WA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Pittsburgh, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Talala, OK'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Lake Wales, FL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Chattanooga, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Nelsonville, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Compton, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Reading, England'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Talyllyn, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Marcus Hook, PA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Waukesha, WI'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Coconut Grove, FL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Macon, GA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Los Angeles, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'End Gables, FL'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Columbia, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Jackson, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'East Palestine, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Flagstaff, AZ'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'New York City'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Grand Canyon Village, AZ'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Oklahoma City, OK'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Richmond, IN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Rochester, NY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Davenport, IA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Oakland, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Columbus, OH'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Memphis, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Bristol, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Baltimore, MD.'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Menomonie, Wis.'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Chicago, Illinois'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Arlington, Virginia'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Olympia, Washington'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Kansas City, Missouri'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Nashville, Tennessee'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Knoxville, Tennessee'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Dayton, Tennessee'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Tennessee'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Rhea County, Tennessee'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'San Francisco, California'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Memphis, Tenn.'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Berkeley, CA'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Utica, NY'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'Cleveland, TN'}}
+
+	{'placeTerm': {'@type': 'text', '#text': 'San Francisco, CA'}}
+
+	{'@supplied': 'yes', 'placeTerm': {'@type': 'text', '@valueURI': '', '#text': 'Knoxville (Tenn.)'}}
+
+
+Total distinct values: 430

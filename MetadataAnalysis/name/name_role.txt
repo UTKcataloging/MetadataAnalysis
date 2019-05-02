@@ -1,73 +1,59 @@
 
 Unique values in metadata.mods.name.role field:
 
-	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
+	{'roleTerm': {'@type': 'text', '#text': 'creator'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/', '#text': 'Creator'}}
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '#text': 'Illustrator'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'ttp://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/art', '#text': 'Artist'}}
 
 	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
 
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/ctb', '#text': 'Contributor'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/', '#text': 'Creator'}}
 
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/rcp', '#text': 'Addressee'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
 
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
-
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/', '#text': 'Creator'}}
-
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': ' http://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
-
-	{'roleTerm': 'Creator'}
-
-	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cph', '#text': 'Copyright holder'}}
-
-	{'roleTerm': 'Author'}
-
-	{'roleTerm': 'Speaker'}
-
-	{'roleTerm': 'Contributor'}
-
-	{'roleTerm': 'Publisher'}
-
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '#text': 'Illustrator'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cr', '#text': 'Creator'}}
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': '', '#text': 'Creator'}}
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
 
-	{'roleTerm': {'@type': 'text', '#text': 'creator'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/aut', '#text': 'Author'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cr', '#text': 'Creator'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cmp', '#text': 'Composer'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Creator'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/lyr', '#text': 'Lyricist'}}
 
-	{'roleTerm': {'@authority': 'marcrelators', '#text': 'Photographer'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prf', '#text': 'Performer'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Photographer'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/arr', '#text': 'Arranger'}}
 
-	{'roleTerm': 'Photographer'}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/ctb', '#text': 'Contributor'}}
 
-	{'roleTerm': {'@authority': 'marcrelators', '#text': 'Author'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/rcp', '#text': 'Addressee'}}
 
-	{'roleTerm': 'Attributed name'}
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
 
-	{'roleTerm': 'Signer'}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/ctb', '#text': 'Contributor'}}
 
-	{'roleTerm': 'Host institution'}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prn', '#text': 'Production company'}}
 
-	{'roleTerm': 'Associated name'}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/sgd', '#text': 'Stage director'}}
 
-	{'roleTerm': 'Artist'}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/msd', '#text': 'Musical director'}}
 
-	{'roleTerm': 'Censor'}
-
-	{'roleTerm': 'Secretary'}
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/', '#text': 'Creator'}}
 
 	{'roleTerm': 'Editor'}
 
-	{'roleTerm': 'Organizer'}
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/edt.html', '#text': 'Editor'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/edt.html', '#text': 'Author'}}
+
+	{'roleTerm': 'Author'}
+
+	{'roleTerm': {'@type': 'text', '#text': 'contributor'}}
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/att', '#text': 'Attributed name'}}
 
@@ -107,6 +93,8 @@ Unique values in metadata.mods.name.role field:
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/org', '#text': 'Originator'}}
 
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cph', '#text': 'Copyright holder'}}
+
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pbl', '#text': 'Publisher'}}
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/com', '#text': 'Compiler'}}
@@ -125,6 +113,34 @@ Unique values in metadata.mods.name.role field:
 
 	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/crp', '#text': 'Correspondent'}}
 
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelators', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht.html', '#text': 'Photographer'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
+
+	{'roleTerm': 'Creator'}
+
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': ' http://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/org', '#text': 'Originator'}}
+
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/ctb', '#text': 'Contributor'}}
+
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/org', '#text': 'Originator'}}
+
+	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prn', '#text': 'Production company'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Author'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Creator'}}
+
+	{'roleTerm': {'@authority': 'marcrelators', '#text': 'Photographer'}}
+
+	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Photographer'}}
+
+	{'roleTerm': 'Photographer'}
+
+	{'roleTerm': {'@authority': 'marcrelators', '#text': 'Author'}}
+
 	{'roleTerm': {'@authority': 'marcrelators', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
 
 	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cph', '@type': 'text', '#text': 'Copyright holder'}}
@@ -133,39 +149,33 @@ Unique values in metadata.mods.name.role field:
 
 	{'roleTerm': {'@authority': 'marcrelators', '@valueURI': 'http://id.loc.gov/vocabulary/relators/isb', '#text': 'Issuing body'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/edt.html', '#text': 'Editor'}}
+	{'roleTerm': 'Speaker'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/edt.html', '#text': 'Author'}}
+	{'roleTerm': 'Contributor'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cmp', '#text': 'Composer'}}
+	{'roleTerm': 'Publisher'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/lyr', '#text': 'Lyricist'}}
+	{'roleTerm': {'@authority': 'marcrelators', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/cre.html', '#text': 'Creator'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prf', '#text': 'Performer'}}
+	{'roleTerm': {'@authority': 'marcrelators', '@type': 'text', '@valueURI': 'http://id.loc.gov/vocabulary/relators/dnr.html', '#text': 'Donor'}}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/arr', '#text': 'Arranger'}}
+	{'roleTerm': 'Attributed name'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/ctb', '#text': 'Contributor'}}
+	{'roleTerm': 'Signer'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prn', '#text': 'Production company'}}
+	{'roleTerm': 'Host institution'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/sgd', '#text': 'Stage director'}}
+	{'roleTerm': 'Associated name'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/msd', '#text': 'Musical director'}}
+	{'roleTerm': 'Artist'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/org', '#text': 'Originator'}}
+	{'roleTerm': 'Censor'}
 
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/org', '#text': 'Originator'}}
+	{'roleTerm': 'Secretary'}
 
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/prn', '#text': 'Production company'}}
+	{'roleTerm': 'Organizer'}
 
-	{'roleTerm': {'@authority': 'marcrelator', '#text': 'Author'}}
-
-	{'roleTerm': {'@type': 'text', '@authority': 'marcrelators', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht.html', '#text': 'Photographer'}}
-
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/pht', '#text': 'Photographer'}}
-
-	{'roleTerm': {'@authority': 'marcrelator', '@valueURI': 'http://id.loc.gov/vocabulary/relators/art', '#text': 'Artist'}}
+	{'roleTerm': {'@authority': 'marcrelator', '@type': 'text', '@valueURI': 'ttp://id.loc.gov/vocabulary/relators/cre', '#text': 'Creator'}}
 
 
-Total distinct values: 83
+Total distinct values: 88

@@ -7,11 +7,13 @@ Unique values in metadata.mods.typeOfResource field:
 
 	cartographic
 
+	notated music
+
+	sound recording
+
 	moving image
 
 	three dimensional object
 
-	notated music
 
-
-Total distinct values: 6
+Total distinct values: 7
